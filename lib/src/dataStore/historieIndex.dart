@@ -1,0 +1,1 @@
+var historieIndex = 0;
